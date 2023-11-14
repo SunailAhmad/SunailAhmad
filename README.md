@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Neural Networks**
 
-- 📝 I regularly write articles on [biotechnologytec.blogspot.com](biotechnologytec.blogspot.com)
+- 📝 I regularly write articles on [infogene.net](infogene.net)
 
 - 💬 Ask me about **python,html,css,c++**
 
