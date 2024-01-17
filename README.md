@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [infogene.net](infogene.net)
 
-- 💬 Ask me about **python,html,css,c++**
+- 💬 Ask me about **python,html,css,c++,sql**
 
 - 📫 How to reach me **sunailahmad42@gmail.com**
 
