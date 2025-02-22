@@ -61,7 +61,7 @@
 
 ---
 
-### 💡 Essential Skills for Job Hunting:
+
 #### **Web Development:**
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.
 - **Backend:** Python, Django, SQL.
