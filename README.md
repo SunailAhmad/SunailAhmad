@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **Breast Cancer Prediction using Machine Learning**.
 - 🌱 I’m currently learning **Neural Networks and Deep Learning**.
-- 👨‍💻 I regularly write articles on [infogene.net](https://infogene.net).
+- 👨‍💻 I regularly write articles on [infogene.net](https://infogene.net),[p999game.website](https://p999game.website/)
 - 💬 Ask me about **Python, SQL, Data Analysis, Machine Learning, Web Development (HTML, CSS, JavaScript, React, Django)**.
 - 📫 How to reach me: **sunailahmad42@gmail.com**.
 - ⚡ Fun fact: I love solving real-world problems using data and building scalable web applications.
